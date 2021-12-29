@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./photo_2021-12-10_18-41-17.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.container{
+    width: 60%;
+    height: 50%;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+.div_logo{
+    width: 200px;
+    height: 300px;
+    background-color: green;
+    margin-top: 25px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: #E7485D;
+
+}
